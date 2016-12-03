@@ -5,7 +5,7 @@ public class GameEngine {
 	private Random random;
 	private Scanner scan;
 	
-
+	//bug fixed
 	public GameEngine(){
 		random = new Random();
 		scan = new Scanner(System.in);
